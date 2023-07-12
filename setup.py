@@ -20,7 +20,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/autodistill/autodistill-blipv2",
     install_requires=[
-        "transformers==4.25",
+        "transformers==4.30.0",
         "torch",
         "numpy",
         "autodistill",
